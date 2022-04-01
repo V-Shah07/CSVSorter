@@ -32,7 +32,7 @@ After compiling, these are the order of the command line arguments you need to p
 * ```Type```
   - What type of data your column stores
   - Possible options: N, S, or D
-  - N represents numeric, S represents strings(words), and D represents dates
+    - N represents numeric, S represents strings(words), and D represents dates
 
 Finally, a full example:
 ```Sorter.exe C:\Users\Bob\Desktop\Employees.csv Age A N```
