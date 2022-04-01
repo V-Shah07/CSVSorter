@@ -11,7 +11,7 @@ This project can sort a CSV file in numerous ways. You have to provide the file 
 5. In terminal, type: ```./Sorter.exe``` with command line arguments(which I will explain later)
 ### Alternatively:
 1. Download the files of this repository by zipping it, and then open that folder through file explorer
-2. If you are on a linux based shell: ```g++ -o Sorter compareFunctions.cpp convert1Dto2D.cpp getInfo.cpp HeaderRow.cpp init.cpp main.cpp``` should compile and ```./Sorter.exe```(with command line arguments) should run it
+2. If you are on a linux based shell: ```g++ -o Sorter compareFunctions.cpp convert1Dto2D.cpp getInfo.cpp HeaderRow.cpp init.cpp main.cpp``` should compile and ```./Sorter```(with command line arguments) should run it
 3. If you are on windows: ```gcc compareFunctions.cpp convert1Dto2D.cpp getInfo.cpp HeaderRow.cpp init.cpp main.cpp -o Sorter.exe``` should compile and ```Sorter.exe```(with command line arguments) should run it
 
 
