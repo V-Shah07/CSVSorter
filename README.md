@@ -18,7 +18,8 @@ This project can sort a CSV file in numerous ways. You have to provide the file 
 ## Running with command line arguments
 
 Sorter.exe ```file name``` ```Column name``` ```Order``` ```Type```
-After compiling, these are the order of the command line arguments you need to provide:
+
+After compiling, this is the order of the command line arguments you need to provide:
 * ```file name```
   - The path to your CSV File
   - Example: C:\Users\Bob\Desktop\Employees.csv
