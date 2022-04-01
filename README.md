@@ -44,5 +44,5 @@ If you are using an excel file, make sure to save it as a csv!
 
 * Different elements can be accessed by finding commas since the input file is a CSV 
 * Once all the data is stored, it is a matter of sorting the single column
-  - Quicksort is used to sort the specific column]
+  - Quicksort is used to sort the specific column
 * Then the code rewrites the file, modifying it to the desired outcome
